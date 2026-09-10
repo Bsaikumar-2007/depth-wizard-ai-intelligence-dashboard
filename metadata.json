@@ -1,0 +1,6 @@
+{
+  "name": "DEPTHWIZARD - ISRO DMS",
+  "description": "3D Terrain Intelligence and Disaster Management Workstation for remote-sensing imagery, neural depth elevation models, and volumetric hazard assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
